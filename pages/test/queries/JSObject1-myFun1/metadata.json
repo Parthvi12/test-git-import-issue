@@ -16,14 +16,13 @@
     "pageId": "test",
     "collectionId": "test_JSObject1",
     "actionConfiguration": {
-      "timeoutInMillisecond": 10000,
+      "timeoutInMillisecond": 0,
       "paginationType": "NONE",
       "encodeParamsToggle": true,
       "selfReferencingDataPaths": [],
       "jsArguments": []
     },
     "executeOnLoad": false,
-    "clientSideExecution": true,
     "dynamicBindingPathList": [
       {
         "key": "body"
@@ -35,10 +34,9 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": [],
-    "createdAt": "2023-09-20T10:05:22Z"
+    "userPermissions": []
   },
   "id": "test_JSObject1.myFun1",
   "deleted": false,
-  "gitSyncId": "650ac33a0bbcd83baf3edd45_650ac3e20bbcd83baf3edd53"
+  "gitSyncId": "650adabf0bbcd83baf3edd7e_650adac40bbcd83baf3edd87"
 }
