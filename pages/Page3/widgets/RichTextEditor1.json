@@ -43,9 +43,11 @@
     "isLoading": false,
     "mobileTopRow": 57,
     "responsiveBehavior": "fill",
+    "originalTopRow": 57,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 21,
     "maxDynamicHeight": 9000,
+    "originalBottomRow": 77,
     "defaultText": "This is the initial <b>content<\/b> of the editor",
     "minDynamicHeight": 4
 }
